@@ -42,7 +42,7 @@ Contains all the maps (their last version).
 - gametypes: DM, TDM, CTF, HQ
 
 
-## Loreley rock, Germany
+## Loreley Rock, Germany
 
 - [mp_loreley](https://github.com/lukasheinz92/cod2maps/blob/main/mp_loreley.iwd)
 - version: 1.0
@@ -76,7 +76,7 @@ Visual effects limited (OPT = optimized)
 - gametypes: DM, TDM, SD, CTF, HQ
 
 
-## Train station, Russia
+## Train Station, Russia
 
 - [mp_station](https://github.com/lukasheinz92/cod2maps/blob/main/mp_station.iwd)
 - version: 1.0
